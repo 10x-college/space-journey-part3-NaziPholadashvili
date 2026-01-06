@@ -7,7 +7,8 @@
 
 Dwarf Galaxy Restaurant - Near Milky Way System
 
-## Student Exercise: Rebuild the Menu
+## Studen
+t Exercise: Rebuild the Menu
 
 **Objective:** create the exact HTML structure for the "Interplanetary Menu" section.
 
@@ -167,7 +168,7 @@ then add`<a>` tag with href-"menu" and class "cta-button" with cntent inside Eng
 **13. Comet Curry**
 
 -   **Image:** `assets/CometCurry.jpeg`
--   **Ingredients:** Icy Mint Yogurt, Red Tail Curry, Speed-Grown Rice
+-   **Ingredients:** Icy Mint Yogurt, Red Tail Curry, Red Tail Curry
 -   **Title:** Comet Curry
 -   **Description:** Spicy red curry served with a cooling tail of mint yogurt.
 -   **Origin:** HALLEY
@@ -203,7 +204,7 @@ then add`<a>` tag with href-"menu" and class "cta-button" with cntent inside Eng
 **17. Orbital Onion Rings**
 
 -   **Image:** `assets/Orbital.jpeg`
--   **Ingredients:** Saturn Onions, Magnetic Batter, Gravity Sauce
+-   **Ingredients:** Saturn Onions, Magnetic Batter, Magnetic Batter
 -   **Title:** Orbital Onion Rings
 -   **Description:** Crispy rings suspended magnetically around a central sauce cup.
 -   **Origin:** SATURN
